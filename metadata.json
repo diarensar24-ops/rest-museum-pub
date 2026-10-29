@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant Museum Pub",
+  "description": "Website for Restaurant Museum Pub in Mitrovica with table reservations, interactive menu, admin booking dashboard, customer reviews, and integrated map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
